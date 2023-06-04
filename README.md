@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo
 
-[Live preview](https://azouaoui-med.github.io/angular-pro-sidebar/demo/)
+[Live preview](https://DarkMGarner.github.io/angular-pro-sidebar/demo/)
 
 ## Screenshot
 
@@ -15,7 +15,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Quick start
 
 ```
-npm install 
+npm install
 
 ng serve
 ```
@@ -23,10 +23,12 @@ ng serve
 Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Resources
-*   [Bootstrap](https://getbootstrap.com/)
-*   [ngx bootstrap](https://valor-software.com/ngx-bootstrap/)
-*   [Font awsome](http://fontawesome.io/)
-*   [Angular Perfect Scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar)
+
+- [Bootstrap](https://getbootstrap.com/)
+- [ngx bootstrap](https://valor-software.com/ngx-bootstrap/)
+- [Font awsome](http://fontawesome.io/)
+- [Angular Perfect Scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar)
 
 ## License
-This code is released under the [MIT](https://github.com/azouaoui-med/angular-pro-sidebar/blob/master/LICENSE) license.
+
+This code is released under the [MIT](https://github.com/DarkMGarner/angular-pro-sidebar/blob/master/LICENSE) license.
